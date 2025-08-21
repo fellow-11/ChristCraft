@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "christcraft",
+  "version": "1.0.0",
+  "name": "ChristCraft",
+  "description": "Removes magic and undead mobs from Minecraft!",
+  "license": "LicenseRef-Datapack",
+  "environment": "*",
+  "depends": {
+    "fabric-resource-loader-v0": "*"
+  },
+  "authors": [
+    "Ashes",
+    "Fellow"
+  ],
+  "icon": "pack.png",
+  "contact": {
+    "homepage": "https://modrinth.com/resourcepack/christcraft"
+  }
+}

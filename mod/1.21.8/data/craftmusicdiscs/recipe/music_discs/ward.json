@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      " # ",
+      "#E#",
+      " # "
+  ],
+  "key": {
+      "#": "minecraft:flint",
+      "E": "minecraft:ender_eye"
+  },
+  "result": {
+      "id": "minecraft:music_disc_ward",
+      "count": 1
+  }
+}

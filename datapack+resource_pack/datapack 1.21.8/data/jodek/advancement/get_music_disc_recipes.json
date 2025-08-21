@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "craftmusicdiscs:music_discs/11",
+      "craftmusicdiscs:music_discs/13",
+      "craftmusicdiscs:music_discs/blocks",
+      "craftmusicdiscs:music_discs/cat",
+      "craftmusicdiscs:music_discs/stal",
+      "craftmusicdiscs:music_discs/blocks",
+      "craftmusicdiscs:music_discs/chirp",
+      "craftmusicdiscs:music_discs/far",
+      "craftmusicdiscs:music_discs/lava_chicken",
+      "craftmusicdiscs:music_discs/mall",
+      "craftmusicdiscs:music_discs/mellohi",
+      "craftmusicdiscs:music_discs/otherside",
+      "craftmusicdiscs:music_discs/pigstep",
+      "craftmusicdiscs:music_discs/relic",
+      "craftmusicdiscs:music_discs/strad",
+      "craftmusicdiscs:music_discs/wait",
+      "craftmusicdiscs:music_discs/ward"
+    ]
+  }
+}

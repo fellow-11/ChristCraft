@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      " # ",
+      "#g#",
+      " # "
+  ],
+  "key": {
+      "#": "minecraft:netherrack",
+      "g": "minecraft:gold_ingot"
+  },
+  "result": {
+      "id": "minecraft:music_disc_pigstep",
+      "count": 1
+  }
+}

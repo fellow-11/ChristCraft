@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      " # ",
+      "#P#",
+      " # "
+  ],
+  "key": {
+      "#": "minecraft:flint",
+      "P": "minecraft:popped_chorus_fruit"
+  },
+  "result": {
+      "id": "minecraft:music_disc_mall",
+      "count": 1
+  }
+}
