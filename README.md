@@ -1,5 +1,8 @@
 # Christian Minecraft!
-[![Discord](https://img.shields.io/discord/1406336513603665981?label=Discord&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/SQQKpfJXKy)
+![Discord](https://img.shields.io/discord/1406336513603665981?logo=discord&logoColor=white&label=Discord&color=5865F2&link=https%3A%2F%2Fdiscord.gg%2FSQQKpfJXKy)
+![Modrinth Downloads](https://img.shields.io/modrinth/dt/67pSCNLZ?logo=modrinth&logoColor=white&label=Downloads&color=00da74&link=https%3A%2F%2Fmodrinth.com%2Fdatapack%2Fchristcraft)
+
+https://img.shields.io/modrinth/dt/67pSCNLZ?link=https%3A%2F%2Fmodrinth.com%2Fdatapack%2Fchristcraft
 
 The bible instructs us to "abhor what is wicked" - Romans 12:9, _New World Translation_.
 
