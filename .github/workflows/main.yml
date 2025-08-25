@@ -1,0 +1,22 @@
+            - name: Github Releases To Discord
+  # You may pin to the exact commit or the version.
+  # uses: SethCohen/github-releases-to-discord@1ce3bed332e216a51d8e617a0f20ac6ec60f53a3
+  uses: SethCohen/github-releases-to-discord@v1.13.1
+  with:
+    # Discord's webhook url. Use GH repo secrets.
+    webhook_url: https://discord.com/api/webhooks/1409600058483282021/1LaX4NSh27JOxk9uf79OG8oIuymE4cUutfJZL-q39TmOHojXr8vafIfRDgR7zPx77m53
+    # Decimal color value for embed.
+    color: # optional, default is 2105893
+    # String username for webhook.
+    username: ChristCraft
+    # String url to webhook avatar picture.
+    avatar_url: # optional
+    # String content for webhook.
+    content: # optional
+    # Title for the footer.
+    footer_title: # optional
+    # Icon url for the footer.
+    footer_icon_url: # optional
+    # Timestamp for the footer.
+    footer_timestamp: # optional
+          
