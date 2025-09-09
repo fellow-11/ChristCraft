@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "id": "christcraft",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "name": "ChristCraft",
   "description": "Removes magic and undead mobs from Minecraft!",
-  "license": "LicenseRef-Datapack",
+  "license": "ARR",
   "environment": "*",
   "depends": {
     "fabric-resource-loader-v0": "*"
