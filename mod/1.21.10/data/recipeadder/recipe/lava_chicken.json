@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      "R#R",
+      "#R#",
+      "R#R"
+  ],
+  "key": {
+      "#": "minecraft:flint",
+      "R": "minecraft:redstone"
+  },
+  "result": {
+      "id": "minecraft:music_disc_lava_chicken",
+      "count": 1
+  }
+}

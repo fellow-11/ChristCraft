@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      " # ",
+      "#E#",
+      " # "
+  ],
+  "key": {
+      "#": "minecraft:flint",
+      "E": "minecraft:emerald"
+  },
+  "result": {
+      "id": "minecraft:music_disc_cat",
+      "count": 1
+  }
+}

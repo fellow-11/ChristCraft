@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "qqq",
+    "qbq",
+    "qqq"
+  ],
+  "key": {
+    "q": {
+      "item": "minecraft:quartz"
+    },
+    "b": {
+      "item": "minecraft:quartz_block"
+    }
+  },
+  "result": {
+    "id": "minecraft:skeleton_skull",
+    "count": 1
+  }
+}
