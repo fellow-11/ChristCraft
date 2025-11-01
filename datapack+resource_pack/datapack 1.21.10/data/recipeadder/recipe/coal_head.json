@@ -7,12 +7,8 @@
     "ccc"
   ],
   "key": {
-    "c": {
-      "item": "minecraft:charcoal"
-    },
-    "b": {
-      "item": "minecraft:coal_block"
-    }
+    "c": "minecraft:charcoal",
+    "b": "minecraft:coal_block"
   },
   "result": {
     "id": "minecraft:wither_skeleton_skull",

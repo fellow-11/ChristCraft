@@ -1,7 +1,6 @@
 {
     "values": [
     "noskellytraps:tick",
-    "nozombify:tick",
-    "craftmusicdiscs:main"
+    "nozombify:tick"
     ]
 }

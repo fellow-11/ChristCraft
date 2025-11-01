@@ -7,12 +7,8 @@
     "qqq"
   ],
   "key": {
-    "q": {
-      "item": "minecraft:quartz"
-    },
-    "b": {
-      "item": "minecraft:quartz_block"
-    }
+    "q": "minecraft:quartz",
+    "b": "minecraft:quartz_block"
   },
   "result": {
     "id": "minecraft:skeleton_skull",
