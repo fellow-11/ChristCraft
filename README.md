@@ -9,4 +9,4 @@ The bible instructs us to "abhor what is wicked" - Romans 12:9, _New World Trans
 
 The aim of this pack is to remove spiritism and violence where possible.
 
-**Please, join the discord server and suggest changes or additions, and report issues! We need ideas!**Also, if you have experience with hardcoded structure modding we may need your guidance as changing dungeons and fortresses is out of reach for us as it stands.
+**Please, join the discord server and suggest changes or additions, and report issues! We need ideas!** Also, if you have experience with hardcoded structure modding we may need your guidance as changing dungeons and fortresses is out of reach for us as it stands.
