@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      " # ",
+      "#A#",
+      " # "
+  ],
+  "key": {
+      "#": "minecraft:flint",
+      "A": "minecraft:amethyst_shard"
+  },
+  "result": {
+      "id": "minecraft:music_disc_mellohi",
+      "count": 1
+  }
+}

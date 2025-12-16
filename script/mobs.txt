@@ -1,0 +1,13 @@
+minecraft:skeleton
+minecraft:zombie
+minecraft:witch
+minecraft:zombie_villager
+minecraft:drowned
+minecraft:husk
+minecraft:skeleton_horse
+minecraft:zombie_horse
+minecraft:bogged
+minecraft:stray
+minecraft:zoglin
+minecraft:zombified_piglin
+minecraft:parched

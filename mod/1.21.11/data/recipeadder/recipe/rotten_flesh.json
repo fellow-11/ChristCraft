@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " m ",
+    "msm",
+    " m "
+  ],
+  "key": {
+    "m": "#minecraft:meat",
+    "s": "minecraft:spider_eye"
+    },
+  "result": {
+    "id": "minecraft:rotten_flesh",
+    "count": 4
+  }
+}

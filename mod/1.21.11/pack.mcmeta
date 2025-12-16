@@ -1,0 +1,18 @@
+{
+  "pack": {
+        "supported_formats": [
+            71,
+            81
+        ],
+        "pack_format": 71,
+    "description": [
+           {
+               "text": "Christcraft 1.2.0",
+               "color": "#21497B"
+           },
+           {
+               "text": "\n§3Ashes §7& Fellow"
+           }
+       ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "recipeadder:11",
+      "recipeadder:13",
+      "recipeadder:blocks",
+      "recipeadder:bone",
+      "recipeadder:cat",
+      "recipeadder:stal",
+      "recipeadder:blocks",
+      "recipeadder:chirp",
+      "recipeadder:coal_head",
+      "recipeadder:far",
+      "recipeadder:lava_chicken",
+      "recipeadder:mall",
+      "recipeadder:mellohi",
+      "recipeadder:quartz_head",
+      "recipeadder:relic",
+      "recipeadder:rotten_flesh",
+      "recipeadder:rotten_flesh2",
+      "recipeadder:rotten_flesh3",
+      "recipeadder:rotten_flesh4",
+      "recipeadder:strad",
+      "recipeadder:wait",
+      "recipeadder:ward"
+    ]
+  }
+}

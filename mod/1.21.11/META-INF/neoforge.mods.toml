@@ -1,0 +1,15 @@
+modLoader = 'javafml'
+loaderVersion = '[1,)'
+license = 'ARR'
+showAsResourcePack = false
+mods = [
+	{ modId = 'christcraft', 
+	version = '1.2.2', 
+	displayName = 'ChristCraft', 
+	description = "Removes magic and undead mobs from Minecraft!", 
+	logoFile = 'pack.png', 
+	credits = 'Ashes, Fellow', 
+	updateJSONURL = 'https://modrinth.com/datapack/christcraft/versions', 
+	displayURL = 'https://modrinth.com/datapack/christcraft', 
+	authors = 'Ashes, Fellow' }
+]

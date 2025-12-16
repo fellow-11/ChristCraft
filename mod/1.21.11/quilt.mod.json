@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "quilt_loader": {
+    "group": "com.modrinth",
+    "id": "christcraft",
+    "version": "1.2.2",
+    "metadata": {
+      "name": "ChristCraft",
+      "description": "Removes magic and undead mobs from Minecraft!",
+      "contributors": {
+        "Ashes": "Author",
+        "Fellow": "Author"
+      },
+      "icon": "pack.png",
+      "contact": {
+        "homepage": "https://modrinth.com/datapack/christcraft"
+      }
+    },
+    "intermediate_mappings": "net.fabricmc:intermediary",
+    "depends": [
+      {
+        "id": "quilt_resource_loader",
+        "versions": "*",
+        "unless": "fabric-resource-loader-v0"
+      }
+    ]
+  }
+}

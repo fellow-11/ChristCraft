@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ccc",
+    "cbc",
+    "ccc"
+  ],
+  "key": {
+    "c": "minecraft:charcoal",
+    "b": "minecraft:coal_block"
+  },
+  "result": {
+    "id": "minecraft:wither_skeleton_skull",
+    "count": 1
+  }
+}
