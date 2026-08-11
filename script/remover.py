@@ -2,8 +2,8 @@ import json
 import os
 import glob
 
-BIOME_FOLDER = "."
-MOBS_FILE = "mobs.txt"
+BIOME_FOLDER = "/home/felix/ChristCraft/script/biome"
+MOBS_FILE = "/home/felix/ChristCraft/script/mobs.txt"
 
 def load_mobs_to_remove(mobs_file):
     if not os.path.exists(mobs_file):

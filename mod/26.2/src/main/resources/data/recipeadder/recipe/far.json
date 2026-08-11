@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      " # ",
+      "#S#",
+      " # "
+  ],
+  "key": {
+      "#": "minecraft:flint",
+      "S": "minecraft:slime_ball"
+  },
+  "result": {
+      "id": "minecraft:music_disc_far",
+      "count": 1
+  }
+}

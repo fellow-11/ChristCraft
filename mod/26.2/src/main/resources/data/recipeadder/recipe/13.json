@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      " # ",
+      "#g#",
+      " # "
+  ],
+  "key": {
+      "#": "minecraft:flint",
+      "g": "minecraft:gold_ingot"
+  },
+  "result": {
+      "id": "minecraft:music_disc_13",
+      "count": 1
+  }
+}
