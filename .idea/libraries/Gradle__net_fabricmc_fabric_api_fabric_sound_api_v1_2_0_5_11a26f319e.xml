@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: net.fabricmc.fabric-api:fabric-sound-api-v1:2.0.5+11a26f319e" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="net.fabricmc.fabric-api" artifactId="fabric-sound-api-v1" version="2.0.5+11a26f319e" baseVersion="2.0.5+11a26f319e" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/net.fabricmc.fabric-api/fabric-sound-api-v1/2.0.5+11a26f319e/73e4e62924608e1d1581f192607857db096dafe7/fabric-sound-api-v1-2.0.5+11a26f319e.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/net.fabricmc.fabric-api/fabric-sound-api-v1/2.0.5+11a26f319e/18d1d65e0ddcaa7e431c0f7478a0aa921bbc4abe/fabric-sound-api-v1-2.0.5+11a26f319e-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mojang:text2speech:1.19.12" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.mojang" artifactId="text2speech" version="1.19.12" baseVersion="1.19.12" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.mojang/text2speech/1.19.12/2e517a75c79d34d32de2b5d68422150836c2133e/text2speech-1.19.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.mojang/text2speech/1.19.12/c53ef0f5e730b9da140f84b8df1951a9e310eb0c/text2speech-1.19.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

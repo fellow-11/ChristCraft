@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: net.fabricmc.fabric-api:fabric-gametest-api-v1:4.0.21+4a7fa0819e" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="net.fabricmc.fabric-api" artifactId="fabric-gametest-api-v1" version="4.0.21+4a7fa0819e" baseVersion="4.0.21+4a7fa0819e" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/net.fabricmc.fabric-api/fabric-gametest-api-v1/4.0.21+4a7fa0819e/e211272a2b116eaed8a2b05170c14af84250ea6b/fabric-gametest-api-v1-4.0.21+4a7fa0819e.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/net.fabricmc.fabric-api/fabric-gametest-api-v1/4.0.21+4a7fa0819e/7f1d67097c84936e612a9658ffe723efac13d66e/fabric-gametest-api-v1-4.0.21+4a7fa0819e-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

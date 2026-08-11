@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: net.fabricmc.fabric-api:fabric-transitive-access-wideners-v1:8.1.4+67c847259e" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="net.fabricmc.fabric-api" artifactId="fabric-transitive-access-wideners-v1" version="8.1.4+67c847259e" baseVersion="8.1.4+67c847259e" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/net.fabricmc.fabric-api/fabric-transitive-access-wideners-v1/8.1.4+67c847259e/e1e769f8e123395ab939d5d8da900e6a6ad53ab2/fabric-transitive-access-wideners-v1-8.1.4+67c847259e.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/net.fabricmc.fabric-api/fabric-transitive-access-wideners-v1/8.1.4+67c847259e/f0528a63612ed3d756f265daa06bf712a4283c1d/fabric-transitive-access-wideners-v1-8.1.4+67c847259e-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

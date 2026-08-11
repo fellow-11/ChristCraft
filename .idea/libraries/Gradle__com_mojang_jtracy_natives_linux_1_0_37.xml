@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mojang:jtracy:natives-linux:1.0.37" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.mojang" artifactId="jtracy" version="1.0.37" baseVersion="1.0.37" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.mojang/jtracy/1.0.37/e1b4395227af41195da9e2ead13c48ee0b7d31cd/jtracy-1.0.37-natives-linux.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.mojang/jtracy/1.0.37/bb5ded9cac574ef76b0c5339bbb848c9c9c3ea1/jtracy-1.0.37-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

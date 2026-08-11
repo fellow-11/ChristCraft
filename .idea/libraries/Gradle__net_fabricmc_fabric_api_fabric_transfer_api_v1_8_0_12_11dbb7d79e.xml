@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: net.fabricmc.fabric-api:fabric-transfer-api-v1:8.0.12+11dbb7d79e" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="net.fabricmc.fabric-api" artifactId="fabric-transfer-api-v1" version="8.0.12+11dbb7d79e" baseVersion="8.0.12+11dbb7d79e" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/net.fabricmc.fabric-api/fabric-transfer-api-v1/8.0.12+11dbb7d79e/b2bcd304a951ee748602f18b6ffc89fb32c14a14/fabric-transfer-api-v1-8.0.12+11dbb7d79e.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/net.fabricmc.fabric-api/fabric-transfer-api-v1/8.0.12+11dbb7d79e/52d3179a8a077ccb0a7180adcd77e7ea988f6a82/fabric-transfer-api-v1-8.0.12+11dbb7d79e-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

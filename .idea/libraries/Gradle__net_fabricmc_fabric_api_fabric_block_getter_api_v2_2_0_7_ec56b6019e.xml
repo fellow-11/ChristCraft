@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: net.fabricmc.fabric-api:fabric-block-getter-api-v2:2.0.7+ec56b6019e" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="net.fabricmc.fabric-api" artifactId="fabric-block-getter-api-v2" version="2.0.7+ec56b6019e" baseVersion="2.0.7+ec56b6019e" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/net.fabricmc.fabric-api/fabric-block-getter-api-v2/2.0.7+ec56b6019e/8204045ca262749761be09b144618e6c4133ebe1/fabric-block-getter-api-v2-2.0.7+ec56b6019e.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/net.fabricmc.fabric-api/fabric-block-getter-api-v2/2.0.7+ec56b6019e/2650b61ef47433b0163fc7d963ebfc83fcddf2d4/fabric-block-getter-api-v2-2.0.7+ec56b6019e-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

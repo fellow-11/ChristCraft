@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: net.fabricmc.fabric-api:fabric-biome-api-v1:18.0.6+c7bd5b8e9e" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="net.fabricmc.fabric-api" artifactId="fabric-biome-api-v1" version="18.0.6+c7bd5b8e9e" baseVersion="18.0.6+c7bd5b8e9e" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/net.fabricmc.fabric-api/fabric-biome-api-v1/18.0.6+c7bd5b8e9e/414c89d2bc8ab64dce1763edc4dbe4619113a5b/fabric-biome-api-v1-18.0.6+c7bd5b8e9e.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/net.fabricmc.fabric-api/fabric-biome-api-v1/18.0.6+c7bd5b8e9e/13fafb41633779c82f3dd3389e915fc4ee56fe39/fabric-biome-api-v1-18.0.6+c7bd5b8e9e-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
