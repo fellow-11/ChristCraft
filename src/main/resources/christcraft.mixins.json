@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "com.christcraft.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"mixins": [
+		"MonsterRoomFeatureMixin",
+		"SwampHutPieceMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

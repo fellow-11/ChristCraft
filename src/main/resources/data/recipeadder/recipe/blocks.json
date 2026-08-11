@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      " # ",
+      "#c#",
+      " # "
+  ],
+  "key": {
+      "#": "minecraft:flint",
+      "c": "minecraft:copper_ingot"
+  },
+  "result": {
+      "id": "minecraft:music_disc_blocks",
+      "count": 1
+  }
+}
