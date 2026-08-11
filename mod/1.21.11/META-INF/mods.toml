@@ -1,6 +1,6 @@
 modLoader = 'lowcodefml'
 loaderVersion = '[40,)'
-license = 'ARR'
+license = 'MIT'
 showAsResourcePack = false
 mods = [
 	{ modId = 'christcraft', 

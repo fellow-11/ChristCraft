@@ -1,6 +1,6 @@
 modLoader = 'javafml'
 loaderVersion = '[1,)'
-license = 'ARR'
+license = 'MIT'
 showAsResourcePack = false
 mods = [
 	{ modId = 'christcraft', 

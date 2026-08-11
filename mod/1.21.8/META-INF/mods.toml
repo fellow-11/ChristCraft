@@ -1,6 +1,6 @@
 modLoader = 'lowcodefml'
 loaderVersion = '[40,)'
-license = 'ARR'
+license = 'MIT'
 showAsResourcePack = false
 mods = [
 	{ modId = 'christcraft', version = '1.1.1', displayName = 'ChristCraft', description = "Removes magic and undead mobs from Minecraft!", logoFile = 'pack.png', credits = 'Ashes & Fellow', updateJSONURL = 'https://modrinth.com/resourcepack/christcraft/updates.json', displayURL = 'https://modrinth.com/resourcepack/christcraft', authors = 'Ashes, Fellow' }
