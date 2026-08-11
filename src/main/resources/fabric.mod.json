@@ -9,8 +9,9 @@
 		"Ashes"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/fellow-11/ChristCraft",
+		"sources": "https://github.com/fellow-11/ChristCraft",
+		"issues": "https://github.com/fellow-11/ChristCraft/issues"
 	},
 	"license": "MIT",
 	"icon": "assets/christcraft/icon.png",
