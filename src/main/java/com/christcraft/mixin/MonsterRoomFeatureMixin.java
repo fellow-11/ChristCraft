@@ -26,6 +26,6 @@ public class MonsterRoomFeatureMixin {
         if (original == EntityTypes.SKELETON) {
             return SKELETON_SUBS.get(RANDOM.nextInt(SKELETON_SUBS.size()));
         }
-        return original; // spider stays spider
+        return original;
     }
 }
