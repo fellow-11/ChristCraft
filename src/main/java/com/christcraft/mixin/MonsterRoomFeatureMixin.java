@@ -13,7 +13,7 @@ public class MonsterRoomFeatureMixin {
 
     private static final EntityType<?> REPLACEMENTS[][] = {
         {
-            ENDERMAN, VINDICATOR, HOGLIN
+            VINDICATOR, HOGLIN
             },
         {
             SPIDER, SLIME, PILLAGER
