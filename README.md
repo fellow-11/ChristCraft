@@ -6,7 +6,7 @@
 [![Modrinth Downloads](https://img.shields.io/modrinth/dt/christcraft?logo=modrinth&logoColor=white&label=Downloads&color=%2344cf69&style=flat)](https://modrinth.com/mod/christcraft)
 ![Mod Environment](https://img.shields.io/badge/Environment-Both%20(Recomended)-c65135?style=flat)
 
-[<img src="https://camo.githubusercontent.com/5a15349ffefbf4c6a7a0d6b5dab9caeb2f33cc814379a8518b18e8d64b223104/68747470733a2f2f692e696d6775722e636f6d2f4f6c31546366382e706e67" alt="Desktop" width="150"/>](https://modrinth.com/mod/fabric-api)
+[<img src="https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/requires/fabric-api_64h.png" width="150"/>](https://modrinth.com/mod/fabric-api)
 
 </div>
 
