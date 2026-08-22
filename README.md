@@ -1,5 +1,14 @@
+<div align="center">
+
 # Christian Minecraft!
-![Discord](https://img.shields.io/discord/1406336513603665981?logo=discord&logoColor=white&label=Discord&color=5865F2&link=https%3A%2F%2Fdiscord.gg%2FSQQKpfJXKy)
+[![Discord](https://img.shields.io/discord/1406336513603665981?logo=discord&logoColor=white&label=Discord&color=%235865F2&style=flat)](https://discord.gg/w7NRgdJ8B5)
+[![GitHub Downloads](https://img.shields.io/github/downloads/fellow-11/ChristCraft/total?logo=github&logoColor=white&label=Downloads&color=white&style=flat)](https://github.com/fellow-11/ChristCraft/releases)
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/christcraft?logo=modrinth&logoColor=white&label=Downloads&color=%2344cf69&style=flat)](https://modrinth.com/mod/christcraft)
+![Mod Environment](https://img.shields.io/badge/Environment-Both%20(Recomended)-c65135?style=flat)
+
+[<img src="https://camo.githubusercontent.com/5a15349ffefbf4c6a7a0d6b5dab9caeb2f33cc814379a8518b18e8d64b223104/68747470733a2f2f692e696d6775722e636f6d2f4f6c31546366382e706e67" alt="Desktop" width="150"/>](https://modrinth.com/mod/fabric-api)
+
+</div>
 
 The Bible instructs us to "abhor what is wicked" - Romans 12:9, _New World Translation_.
 
