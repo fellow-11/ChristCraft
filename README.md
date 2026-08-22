@@ -6,8 +6,8 @@
 [![Modrinth Downloads](https://img.shields.io/modrinth/dt/christcraft?logo=modrinth&logoColor=white&label=Downloads&color=%2344cf69&style=flat)](https://modrinth.com/mod/christcraft)
 ![Mod Environment](https://img.shields.io/badge/Environment-Both%20(Recomended)-c65135?style=flat)
 
-[<img src="https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/supported/fabric_64h.png" alt="Fabric Loader" width="150"/>](https://fabricmc.net/)
-[<img src="https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/requires/fabric-api_64h.png" alt="Fabric API" width="150"/>](https://modrinth.com/mod/fabric-api)
+[<img src="https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/supported/fabric_64h.png?raw=true" alt="Fabric Loader" width="150"/>](https://fabricmc.net/)
+[<img src="https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/requires/fabric-api_64h.png?raw=true" alt="Fabric API" width="150"/>](https://modrinth.com/mod/fabric-api)
 
 </div>
 
@@ -16,7 +16,7 @@ The Bible instructs us to "abhor what is wicked" - Romans 12:9, _New World Trans
 
 The idea of this pack is to remove spiritism or violence where possible, while not changing too much about the game and specifically trying to keep Minecraft fun and balanced.
 
-[<img src="https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/documentation/ghpages_64h.png" alt="Docs" width="150"/>](https://github.com/fellow-11/ChristCraft/wiki)
+[<img src="https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/documentation/ghpages_64h.png?raw=true" alt="Docs" width="150"/>](https://github.com/fellow-11/ChristCraft/wiki)
 
 ## Why Only Support Fabric
 Making this project a mod necessary to modify minecraft features/structures that are not yet data-driven. We decided that supporting only one mod loader was easiest, we might support more in the future. Thank you for your understanding.
