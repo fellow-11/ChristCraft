@@ -18,7 +18,7 @@ The idea of this pack is to remove spiritism or violence where possible, while n
 
 [<img src="https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/documentation/ghpages_64h.png?raw=true" alt="Docs" height="40"/>](https://github.com/fellow-11/ChristCraft/wiki)
 
-## Why Only Support Fabric
+## Why only support Fabric?
 Making this project a mod necessary to modify minecraft features/structures that are not yet data-driven. We decided that supporting only one mod loader was easiest, we might support more in the future. Thank you for your understanding.
 
 ---
