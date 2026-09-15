@@ -4,10 +4,9 @@
       "default": {
         "max_delay": 24000,
         "min_delay": 12000,
-        "sound": "minecraft:music.overworld.snowy_slopes"
+        "sound": "minecraft:music.overworld.forest"
       }
     },
-    "minecraft:gameplay/increased_fire_burnout": true,
     "minecraft:gameplay/natural_mob_spawns": {
       "argument": {
         "spawn_costs": {},
@@ -21,22 +20,42 @@
           ],
           "creature": [
             {
+              "type": "minecraft:sheep",
+              "count": 4,
+              "weight": 12
+            },
+            {
+              "type": "minecraft:pig",
+              "count": 4,
+              "weight": 10
+            },
+            {
+              "type": "minecraft:chicken",
+              "count": 4,
+              "weight": 10
+            },
+            {
+              "type": "minecraft:cow",
+              "count": 4,
+              "weight": 8
+            },
+            {
               "type": "minecraft:rabbit",
               "count": {
                 "type": "minecraft:uniform",
-                "max_inclusive": 3,
+                "max_inclusive": 4,
                 "min_inclusive": 2
               },
               "weight": 4
             },
             {
-              "type": "minecraft:goat",
+              "type": "minecraft:fox",
               "count": {
                 "type": "minecraft:uniform",
-                "max_inclusive": 3,
-                "min_inclusive": 1
+                "max_inclusive": 4,
+                "min_inclusive": 2
               },
-              "weight": 5
+              "weight": 4
             }
           ],
           "monster": [
@@ -80,16 +99,21 @@
       },
       "modifier": "overlay"
     },
-    "minecraft:visual/sky_color": "#829fff"
+    "minecraft:visual/fog_color": "#ccd8e2",
+    "minecraft:visual/sky_color": "#7ca3ff",
+    "minecraft:visual/water_fog_color": "#375154"
   },
   "carvers": [
     "minecraft:cave",
     "minecraft:cave_extra_underground",
     "minecraft:canyon"
   ],
-  "downfall": 0.9,
+  "downfall": 0.6,
   "effects": {
-    "water_color": "#3f76e4"
+    "dry_foliage_color": "#8c3a04",
+    "foliage_color": "#e68e30",
+    "grass_color": "#df6827",
+    "water_color": "#375154"
   },
   "features": [
     [],
@@ -135,25 +159,24 @@
       "minecraft:underwater_magma",
       "minecraft:disk_sand",
       "minecraft:disk_clay",
-      "minecraft:disk_gravel",
-      "minecraft:ore_emerald"
+      "minecraft:disk_gravel"
     ],
-    [
-      "minecraft:ore_infested"
-    ],
+    [],
     [
       "minecraft:spring_water",
-      "minecraft:spring_lava",
-      "minecraft:spring_lava_frozen"
+      "minecraft:spring_lava"
     ],
     [
       "minecraft:glow_lichen",
-      "minecraft:patch_pumpkin"
+      "minecraft:trees_dappled_forest",
+      "minecraft:brown_mushroom_dappled_forest",
+      "minecraft:patch_red_shrub",
+      "minecraft:patch_grass_forest"
     ],
     [
       "minecraft:freeze_top_layer"
     ]
   ],
   "has_precipitation": true,
-  "temperature": -0.3
+  "temperature": 0.6
 }
