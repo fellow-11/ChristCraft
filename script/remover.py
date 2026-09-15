@@ -18,20 +18,27 @@ def process_biome_file(file_path, mobs_to_remove, current, total):
         data = json.load(f)
 
     modified = False
-    if 'spawners' in data:
-        for category_name, spawns in data['spawners'].items():
-            if isinstance(spawns, list):
-                new_spawns = []
-                for spawn in spawns:
-                    if isinstance(spawn, dict) and 'type' in spawn:
-                        if spawn['type'] not in mobs_to_remove:
-                            new_spawns.append(spawn)
-                        else:
-                            print(f"  🗑️  Removed {spawn['type']} from {category_name}")
-                            modified = True
-                data['spawners'][category_name] = new_spawns
-                if not new_spawns:
-                    print(f"  ⚠️   Empty {category_name} spawns")
+    try:
+        spawns_by_category = data['attributes']['minecraft:gameplay/natural_mob_spawns']['argument']['spawns_by_category']
+    except KeyError:
+        print(f"  ⏭️  No natural_mob_spawns attribute found")
+        return
+
+    for category_name, spawns in spawns_by_category.items():
+        if isinstance(spawns, list):
+            new_spawns = []
+            for spawn in spawns:
+                if isinstance(spawn, dict) and 'type' in spawn:
+                    if spawn['type'] not in mobs_to_remove:
+                        new_spawns.append(spawn)
+                    else:
+                        print(f"  🗑️  Removed {spawn['type']} from {category_name}")
+                        modified = True
+                else:
+                    new_spawns.append(spawn)
+            spawns_by_category[category_name] = new_spawns
+            if not new_spawns:
+                print(f"  ⚠️   Empty {category_name} spawns")
 
     if modified:
         backup_path = file_path + ".backup"
