@@ -9,6 +9,7 @@ import net.minecraft.world.entity.monster.Witch;
 import net.minecraft.world.level.WorldGenLevel;
 import net.minecraft.world.level.levelgen.structure.structures.SwampHutPiece;
 import org.spongepowered.asm.mixin.Mixin;
+import org.spongepowered.asm.mixin.Unique;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Redirect;
 import java.lang.Math;
@@ -16,7 +17,8 @@ import java.lang.Math;
 @Mixin(SwampHutPiece.class)
 public class SwampHutPieceMixin {
 
-    private static final EntityType<?> REPLACEMENTS[] = {
+    @Unique
+    private static final EntityType<?>[] REPLACEMENTS = {
                     PILLAGER
     };
 
