@@ -1,6 +1,6 @@
 <div align="center">
 
-# Christian Minecraft!
+# Christcraft
 [![Discord](https://img.shields.io/discord/1406336513603665981?logo=discord&logoColor=white&label=Discord&color=%235865F2&style=flat)](https://discord.gg/w7NRgdJ8B5)
 [![GitHub Downloads](https://img.shields.io/github/downloads/fellow-11/ChristCraft/total?logo=github&logoColor=white&label=Downloads&color=white&style=flat)](https://github.com/fellow-11/ChristCraft/releases)
 [![Modrinth Downloads](https://img.shields.io/modrinth/dt/christcraft?logo=modrinth&logoColor=white&label=Downloads&color=%2344cf69&style=flat)](https://modrinth.com/mod/christcraft)
