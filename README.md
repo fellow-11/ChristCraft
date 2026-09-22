@@ -38,4 +38,4 @@ The project is developed under the MIT license. It does not come with guaranteed
 **Please, join the [discord server](https://discord.gg/w7NRgdJ8B5)! You can suggest changes or additions, and report issues on the [GitHub project](https://github.com/fellow-11/ChristCraft/issues). We need ideas!** Be sure to share your thoughts on how our mod can implement more features on the discord or drop into the server to say hi and share your ideas for the mod.
 
 # 
-The code for newer versions are in separate branches.
+The code for newer versions are in separate [branches](https://github.com/fellow-11/ChristCraft/branches).
