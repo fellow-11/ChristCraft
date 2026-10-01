@@ -17,7 +17,7 @@
 The purpose of this project is to remove spiritism and violence where possible, while maintaining most mechanics—specifically, trying to keep Minecraft fun and balanced.
 
 ## Quickstart
-To use the mod, simply move the downloaded file to the mods folder of the compatible fabric instance you want to use it on. Restart the game for changes to take effect. For more info, see the [installation docs](https://github.com/fellow-11/ChristCraft/wiki/Installation).
+To use the mod, simply move the downloaded `.jar` file to the mods folder of the compatible fabric instance you want to use it on. Restart the game for changes to take effect. For more info, see the [installation docs](https://github.com/fellow-11/ChristCraft/wiki/Installation).
 **You can easily download the mod [here](https://modrinth.com/datapack/christcraft)**.
 
 ## Features
